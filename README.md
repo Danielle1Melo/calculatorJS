@@ -1,2 +1,3 @@
 # calculatorJS
-![calc](https://github.com/Danielle1Melo/calculatorJS/assets/93881167/107712d3-e407-4ab5-91f7-e4ada177a23a)
+
+![Captura de Tela (10)](https://github.com/Danielle1Melo/calculatorJS/assets/93881167/852eb6bd-4dca-43bd-b182-65c795c52e82)
